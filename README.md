@@ -1,4 +1,4 @@
-#HD Extension
+# HD Extension for MCRaT
 
 This repository holds the notebooks used in the HD extension project.
 
